@@ -1,0 +1,21 @@
+Available commands:
+
+Directory Navigation Commands:
+
+	\033[33mlss\033[0m		- List server directories
+	\033[33mcds\033[0m		- Change active server directory
+
+Directory Manipulation Commands:
+
+	\033[33mmkdirs\033[0m		- Create new server directory
+	\033[33mrmdirs\033[0m		- Remove server directory
+
+Transfer Commands:
+
+	\033[33mupld\033[0m		- Upload files to server directory
+	\033[33mdwnld\033[0m		- download files to client directory
+
+Other commands:
+
+	\033[33mhelp\033[0m		- Display available commands
+	\033[33mquit\033[0m		- Exit
